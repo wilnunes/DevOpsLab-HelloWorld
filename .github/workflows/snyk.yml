@@ -1,4 +1,4 @@
-name: My workflow using Snyk
+name: My workflow using Snyk test
 on: push
 jobs:
   security:
