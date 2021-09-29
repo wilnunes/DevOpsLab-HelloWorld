@@ -1,4 +1,4 @@
-name: My workflow using Snyk
+name: MySnyk
 on: push
 jobs:
   security:
